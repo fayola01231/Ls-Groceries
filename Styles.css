@@ -1,0 +1,45 @@
+<html{
+	background-image: url('Add-a-heading.png') no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size: cover;
+	background-size:cover;
+}
+
+body{
+	color :#FFFFFF;
+
+}
+		
+.links a:hover{
+	color: black;
+	font-size: 30px;
+	cursor:url();
+}
+
+h1{
+	text-align: center;
+}
+
+.container{
+	display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+		
+		
